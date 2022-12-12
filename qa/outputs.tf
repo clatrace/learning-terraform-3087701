@@ -1,3 +1,2 @@
 output "environment_url" {
-  value = module.qa.lb_dns_name
-}
+  value = module.qa.environment_url
